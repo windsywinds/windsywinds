@@ -6,7 +6,7 @@
 * [Contact Me](#contact)
 
 
-## Hi There! 👋 
+## Hi There! 👋 {#hi-there}
 
 I'm Sam, currently based in Wellington New Zealand. I'm a Developer, Photographer, and Snowboard coach. After hanging up my snowboard boots for a career change, I completed a Diploma in Web Development and Design to kickstart my learning and am currently participating in the Mission Ready Cloud and DevOps Developer program. 
 
