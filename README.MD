@@ -24,7 +24,7 @@ I'm Sam, currently based in Wellington New Zealand. I'm a Developer, Photographe
 
 ## My Projects 🚧 <a name="projects"></a>
 
-A few of my more notable projects, check out more on my [portfolio](https://windsywinds.github.com)!
+A few of my more notable projects, check out more on my [portfolio](https://windsywinds.github.io)!
 
 🐳 [Whale Watch NZ](https://github.com/windsywinds/whalewatch) - A PWA utilising firebase that sends push notifications and twitter alerts for user submitted cetacean sightings.
 <br/>
@@ -36,7 +36,7 @@ A few of my more notable projects, check out more on my [portfolio](https://wind
 
 ## Contact Me 📬 <a name="contact"></a>
 
-Please get in touch using any of the platforms found in the [Links](#links) section! You're welcome to direct message me or email me using the email forms on my personal websites, I'd love to hear from you
+Please get in touch using any of the platforms found in the [Links](#links) section. You're welcome to direct message me, or email me using the email forms on my personal websites, I'd love to hear from you!
 
 <br/>
 
