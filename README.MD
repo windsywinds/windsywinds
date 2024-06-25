@@ -9,7 +9,7 @@
 
 ## Hi There! 👋 <a name="about"></a>
 
-I'm Sam, currently based in Wellington New Zealand. I'm a Developer, Photographer, and Snowboard coach. After hanging up my snowboard boots for a career change, I completed a Diploma in Web Development and Design to kickstart my learning and am currently participating in the Mission Ready Cloud and DevOps Developer program. 
+I'm Sam, currently based in Wellington New Zealand. I'm a Developer, Photographer, and Snowboard coach. After hanging up my snowboard boots for a career change, I completed a Diploma in Web Development and Design to kickstart my learning, and then participated in the Mission Ready Cloud and DevOps Developer program to achive a Certificate in Applied Digital Technology Product Solutions.   
 
 <br/>
 
@@ -26,11 +26,11 @@ I'm Sam, currently based in Wellington New Zealand. I'm a Developer, Photographe
 
 A few of my more notable projects, check out more on my [portfolio](https://windsywinds.github.io)!
 
-🐳 [Whale Watch NZ](https://github.com/windsywinds/whalewatch) - A PWA utilising firebase that sends push notifications and twitter alerts for user submitted cetacean sightings.
+🐳 [Whale Watch NZ](https://github.com/windsywinds/whalewatch) - A PWA utilising google firebase that sends push notifications and twitter alerts for user submitted cetacean sightings.
 <br/>
 🏠 [Metro NZ rentals](https://github.com/windsywinds/Mission_5_Final) - A prototype website for a rental agency built in collaboration with other developers and UX designers.
 <br/>
-📷 [Windsor Photos](https://windsorphoto.netlify.app) - Utilizing Ecwid, Stripe and Next.js to create an online store and gallery for my photography.
+📷 [Windsor Photos](https://windsorphoto.netlify.app) - Utilising Ecwid, Stripe and Next.js to create an online store and gallery for my photography.
 
 <br/>
 
